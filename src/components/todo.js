@@ -122,6 +122,17 @@ const Todo = () => {
         </div>
 
     </div>
+    <footer class="footer mt-auto py-4 text-xs bg-gray-700 text-gray-600 ">
+      <div class="flex justify-center items-center min-w-min">
+        <p class="text-center text-gray-200  mx-4">©Dipti Patil 2023 </p>
+        <a href="https://github.com/diptipatil231">
+          <i class="fab fa-github text-gray-400 hover:text-white mx-4 text-xl"></i></a>
+          <a href="https://www.linkedin.com/in/dipti-patil-4a61901b5/">
+              <i class="fab fa-linkedin text-gray-400 hover:text-white mx-4 text-xl"></i></a>
+          <a href="https://www.instagram.com/_dipti21._/">
+              <i class="fab fa-instagram text-gray-400 hover:text-white mx-4 text-xl"></i></a>
+      </div>
+    </footer>
     </>
   )
 }
